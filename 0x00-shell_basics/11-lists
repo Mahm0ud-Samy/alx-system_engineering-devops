@@ -1,5 +1,2 @@
 #!/bin/bash
 ls -la
-cd ..
-pwd
-cd "$(find / -type d -name "boot" -print -quit)"

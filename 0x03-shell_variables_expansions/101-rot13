@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'N-Mn-m' 'A-NN-Za-mn-z'
+echo 'fooman@example.com' | tr 'A-Za-z' 'N-ZA-Mn-za-m'

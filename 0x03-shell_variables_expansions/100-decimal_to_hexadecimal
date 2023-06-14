@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "onbase=16; $DECIMAL" |bc
